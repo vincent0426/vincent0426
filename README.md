@@ -1,6 +1,6 @@
 # Hi, I'm Vincent! 
 ![](https://komarev.com/ghpvc/?username=vincent0426)
-- I am currently working on [OfferLand](https://offerland.cc/).
+- Look more on my website [vincent0426](https://vincent0426.com/).
 
 ## Connect with me 🤝
 <a href="https://www.linkedin.com/in/vincent0426/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
